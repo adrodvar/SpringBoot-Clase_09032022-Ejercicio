@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ford",
+    "numEmployees": 2000,
+    "year": 1980,
+    "direction": {
+      "id": 1,
+      "street": "Calle falsa",
+      "postalCode": "28009",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "products": []
+  },
+  {
+    "id": 2,
+    "name": "Volkswagen",
+    "numEmployees": 2000,
+    "year": 1980,
+    "direction": {
+      "id": 2,
+      "street": "Calle verdadera",
+      "postalCode": "28009",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "products": []
+  }
+]
